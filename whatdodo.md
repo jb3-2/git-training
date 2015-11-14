@@ -1,3 +1,4 @@
 - Hiking in the woods
 - Mountain Biking
 - Geocaching
+- Jogging
